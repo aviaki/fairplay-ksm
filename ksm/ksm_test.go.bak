@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/aviaki/fairplay-ksm/cryptos"
+	"github.com/cooomma/fairplay-ksm/cryptos"
 	"github.com/stretchr/testify/assert"
 )
 
